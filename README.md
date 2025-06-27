@@ -49,3 +49,13 @@ Anggota Kelompok:
 5. Jendela permainan akan terbuka dengan antarmuka grafis berbasis `pygame`.
 
 6. Setelah kedua client saling terhubung, permainan bisa dilanjutkan (Rock-Paper-Scissors).
+
+# Tampilan Game
+## 1. Tampilan Awal
+![image](https://github.com/user-attachments/assets/7c645b28-5985-4ae6-b2fd-e0018bc02b94)
+## 2. Tampilan Setelah Click to Play!
+![image](https://github.com/user-attachments/assets/4fad6f64-d389-40e9-ae72-c4468ced5eff)
+## 3. Tampilan Setelah Memilih Rock-Paper-Scissors
+![image](https://github.com/user-attachments/assets/a7ea26ef-70d6-40c5-b236-133959d77a5c)
+
+
