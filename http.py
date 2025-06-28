@@ -1,4 +1,3 @@
-# File: my_http.py
 import os.path
 from glob import glob
 from datetime import datetime
@@ -70,7 +69,7 @@ class HttpServer:
                 isi = "Status file not found."
             return self.response(200, 'OK', isi, {'Content-type': 'text/plain'})
 
-        object_address = object_address[1:]  # hapus '/' di awal
+        object_address = object_address[1:]  # untuk hapus '/' di awal
         filepath = thedir + object_address
         if filepath not in files:
             return self.response(404, 'Not Found', '', {})
