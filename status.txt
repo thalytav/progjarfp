@@ -1,0 +1,4 @@
+games_played: 5
+p1_win: 2
+p2_win: 2
+ties: 1
