@@ -1,6 +1,3 @@
-# === Versi setelah rename file http.py ke my_http.py ===
-# File: server_thread_pool_http.py
-
 from socket import *
 import socket
 import time
@@ -8,7 +5,7 @@ import sys
 import logging
 import multiprocessing
 from concurrent.futures import ThreadPoolExecutor
-from http import HttpServer  # sebelumnya from http import HttpServer
+from http import HttpServer  
 
 httpserver = HttpServer()
 
