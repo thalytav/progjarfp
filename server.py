@@ -1,6 +1,3 @@
-# === Tambahan untuk game suit ===
-# File: server.py (ubah bagian di dalam threaded_client)
-
 import socket
 from _thread import *
 import pickle
